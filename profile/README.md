@@ -13,7 +13,7 @@ Atualmente a organização possui dois projetos principais.
 
 ---
 
-# 📦 Bem Stock
+# 📦 BemStock
 
 Sistema de **gerenciamento de estoque para instituições sociais**.
 
