@@ -45,6 +45,7 @@ O sistema permite registrar entradas e saídas de itens, facilitando a organiza�
 ## 🐙 GitHub
 
 📊 **Project Board:** https://github.com/orgs/the-compilers-organization/projects/9/views/1
+
 📁 **Repositório:** https://github.com/the-compilers-organization/bem_stock
 
 ---
@@ -80,6 +81,7 @@ O **Conectando Leitores** é um sistema que conecta pessoas interessadas em troc
 ## 🐙 GitHub
 
 📊 **Project Board:** https://github.com/orgs/the-compilers-organization/projects/1/views/1
+
 📁 **Repositório:** https://github.com/the-compilers-organization/conectando_leitores
 
 ---
