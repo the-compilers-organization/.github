@@ -22,20 +22,21 @@ Sistema de **gerenciamento de estoque para instituições sociais**.
 Computação, Sociedade e Sustentabilidade
 
 ### 📖 Descrição
-O **Bem Stock** é um sistema desenvolvido para auxiliar instituições sociais no controle de estoque de doações, alimentos, roupas e outros recursos.
+O **Bem Stock** é um sistema desenvolvido para auxiliar instituições sociais no controle de estoque.
 
 O sistema permite registrar entradas e saídas de itens, facilitando a organização e gestão de recursos.
 
 ### 🎯 Objetivos
-- Controlar entrada de doações
+- Controlar entrada de alimentos
 - Registrar saída de itens
+- Controlar validade
 - Manter histórico de movimentações
 - Melhorar a organização de instituições sociais
 
 ### 🛠 Tecnologias
 - Python
 - Banco de dados relacional
-- Interface gráfica ou web
+- Interface gráfica
 - GitHub para versionamento
 
 ---
