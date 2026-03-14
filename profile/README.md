@@ -4,7 +4,7 @@ Bem-vindo à organização **The Compilers**.
 
 Esta organização reúne projetos acadêmicos desenvolvidos por estudantes do **Curso de Bacharelado em Ciência da Computação da Universidade Católica de Pernambuco (UNICAP)**.
 
-Os projetos têm como objetivo aplicar conhecimentos adquiridos nas disciplinas do curso, utilizando tecnologias modernas para desenvolver soluções com **impacto social, educacional e tecnológico**.
+Os projetos têm como objetivo aplicar conhecimentos adquiridos nas disciplinas do curso para desenvolver soluções com **impacto social, educacional e tecnológico**.
 
 ---
 
