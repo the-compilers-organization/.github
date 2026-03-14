@@ -27,7 +27,7 @@ Sistema de **gerenciamento de estoque para instituições sociais**.
 
 ## 📖 Descrição
 
-O **Bem Stock** é um sistema desenvolvido para auxiliar instituições sociais no controle de estoque.
+O **BemStock** é um sistema desenvolvido para auxiliar instituições sociais no controle de estoque.
 O sistema permite registrar entradas e saídas de itens, facilitando a organização e gestão de recursos.
 
 ...
