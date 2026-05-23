@@ -104,15 +104,18 @@ Esta organização foi criada para:
 
 ---
 
+
 # Contribuintes :octocat:
 
-Time responsável pelo desenvolvimento do projeto
+Time responsável pelo desenvolvimento dos projetos
 
 | [<img src="https://avatars.githubusercontent.com/u/222337719?v=4" width=115><br><sub>Allan Lucas</sub>](https://github.com/allagez) | [<img src="https://avatars.githubusercontent.com/u/229312657?v=4" width=115><br><sub>Breno Bezerra</sub>](https://github.com/brenobezerra2014-cyber) | [<img src="https://avatars.githubusercontent.com/u/130801505?v=4" width=115><br><sub>Francis Lauriano</sub>](https://github.com/FrancisLauriano) | [<img src="https://avatars.githubusercontent.com/u/234993270?v=4" width=115><br><sub>Jeanne Espíndola</sub>](https://github.com/Jeanne3229)
 | :---: | :---: | :---: | :---:
 
 ---
 
-# 📄 Licença
+# Licença
 
-Projetos acadêmicos desenvolvidos para fins educacionais.
+The [MIT License](LICENSE) (MIT)
+
+Copyright :copyright: 2026 - The Compilers Organization
