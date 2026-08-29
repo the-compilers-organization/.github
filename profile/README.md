@@ -60,7 +60,7 @@ Sistema de **gerenciamente de cinema**.
 
 ## 🎓 Disciplina
 
-**Programação Orientad à Objetos**
+**Programação Orientada à Objetos**
 
 ...
 
