@@ -22,6 +22,7 @@ Sistema de **gerenciamento de estoque para instituições sociais**.
 ## 🎓 Disciplina
 
 **Computação, Sociedade e Sustentabilidade**
+
 ...
 
 ## 🐙 GitHub
