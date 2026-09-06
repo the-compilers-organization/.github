@@ -95,7 +95,7 @@ Esta organização foi criada para:
 
 Time responsável pelo desenvolvimento dos projetos
 
-| [<img src="https://avatars.githubusercontent.com/u/222337719?v=4" width=115><br><sub>Allan Lucas</sub>](https://github.com/allagez) | [<img src="https://github.com/Amanda-Aziz.png" width=115><br><sub>Amanda Aziz</sub>](https://github.com/Amanda-Aziz) | [<img src="https://avatars.githubusercontent.com/u/229312657?v=4" width=115><br><sub>Breno Bezerra</sub>](https://github.com/brenobezerra2014-cyber) | [<img src="https://avatars.githubusercontent.com/u/130801505?v=4" width=115><br><sub>Francis Lauriano</sub>](https://github.com/FrancisLauriano) | [<img src="https://avatars.githubusercontent.com/u/234993270?v=4" width=115><br><sub>Jeanne Espíndola</sub>](https://github.com/Jeanne3229) |  [<img src="https://github.com/Sofiafs.png" width=115><br><sub>Sofia Farias</sub>](https://github.com/Sofiafs) |
+| [<img src="https://avatars.githubusercontent.com/u/222337719?v=4" width=115><br><sub>Allan Lucas</sub>](https://github.com/allages) | [<img src="https://github.com/Amanda-Aziz.png" width=115><br><sub>Amanda Aziz</sub>](https://github.com/Amanda-Aziz) | [<img src="https://avatars.githubusercontent.com/u/229312657?v=4" width=115><br><sub>Breno Bezerra</sub>](https://github.com/araujobrenob) | [<img src="https://avatars.githubusercontent.com/u/130801505?v=4" width=115><br><sub>Francis Lauriano</sub>](https://github.com/FrancisLauriano) | [<img src="https://avatars.githubusercontent.com/u/234993270?v=4" width=115><br><sub>Jeanne Espíndola</sub>](https://github.com/Jeanne-Espindola) |  [<img src="https://github.com/Sofiafs.png" width=115><br><sub>Sofia Farias</sub>](https://github.com/Sofiafs) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ---
